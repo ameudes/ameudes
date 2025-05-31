@@ -8,7 +8,7 @@ My research focuses on building artefacts that tackle three key and interconnect
 
 ## 📫 How to reach me
 [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=gmail"/>](mailto:eudes1adiba11@gmail.com)
-[<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=gmail"/>](https://www.linkedin.com/in/eudes-adiba/)
+[<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/eudes-adiba/)
 [Email](mailto:eudes1adiba11@gmail.com) | [LinkedIn](https://www.linkedin.com/in/eudes-adiba/)
 
 
