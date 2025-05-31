@@ -10,7 +10,7 @@ Hi there, I'm [Eudes Adiba](https://www.linkedin.com/in/eudes-adiba/) a Ph.D. Re
 - Research stays
 
 📫 **Contact me by**:
-- [Email](eudes1adiba11@gmail.com)
+- [Email](mailto:eudes1adiba11@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/eudes-adiba/)
 
 💬 **A quote that describes me**:  
