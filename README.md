@@ -1,5 +1,5 @@
 # Eudes Adiba 
-I'm a Ph.D. Researcher, building tools that enhance the accessibility and usefulness of Open Data. With a background in statistics, I’m deepening my expertise in data science to strengthen the analytical foundation of the projects I’m involved in. 
+With a background in statistics, I’m deepening my expertise in data science to strengthen the analytical foundation of the projects I’m involved in. 
 
 Here you will find a mix of projects from my curious dives into different topics, methods, and tools, all part of my ongoing learning adventures! Welcome to my playground 😄
 
