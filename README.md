@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm [Eudes Adiba!](https://www.linkedin.com/in/eudes-adiba/) a Ph.D. researcher building tools that enhance the accessibility and usefulness of Open Data. With a background in statistics, I’m deepening my expertise in data science to strengthen the analytical foundation of the projects I’m involved in.
 
-<!--
-**ameudes/ameudes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Research Interests**. My research focuses on building artefacts that tackle three key and interconnected limitations of Open Data: *Quality*, *Findability*, and *Understandability*. Throughout my work, I combine mixed methods and Machine Learning, with a strong commitment to reproducible research.
 
-Here are some ideas to get you started:
+⚡ **My Repos**: A mix of projects from my curious dives into different topics, methods, and tools, all part of my ongoing learning adventures! Welcome to my playground 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌐 **I am open to**:
+- Collaboration opportunities (anytime & anywhere & any type) and 
+- Research stays
+
+📫 **Contact me by**:
+- [Email](eudes1adiba11 [AT] gmail.com)
+- [LinkedIn] (https://www.linkedin.com/in/eudes-adiba/)
+
+💬 **A quote that describes me**:  
+“Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.” Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)
+
