@@ -15,7 +15,7 @@ My research focuses on building artefacts that tackle three key and interconnect
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
-![Positron](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
+![Positron](https://img.shields.io/badge/-Positron-11557C?style=flat-square&logo=Positron&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
