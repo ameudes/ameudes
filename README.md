@@ -16,38 +16,24 @@ My research focuses on building artefacts that tackle three key and interconnect
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
 ![Positron](https://img.shields.io/badge/-Positron-11557C?style=flat-square&logo=Positron&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Redpanda](https://img.shields.io/badge/-Redpanda-FA4D57?style=flat-square&logo=redpanda&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=Seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white)
 ![PyCaret](https://img.shields.io/badge/-PyCaret-1C1E24?style=flat-square&logo=PyCaret&logoColor=white)
-
-  [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=python"/>](#)
-  [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=r"/>](#)
-  [<img height="40px" width="40px" alt="Icon" src="https://github.com/posit-dev/positron/blob/main/positron-product-icons/positron.png"/>](#)
-  [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=postgres"/>](#)
-  [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=mysql"/>](#)
-  [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=css"/>](#)
-  [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=vscode"/>](#)
-  [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=github"/>](#)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 
 ## 📚 Learning now 
-[<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=aws"/>](#)
-[<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=mongo"/>](#)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 
 ## 💬 A quote that describes me 
