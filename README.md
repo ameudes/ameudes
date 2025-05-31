@@ -13,7 +13,7 @@ My research focuses on building artefacts that tackle three key and interconnect
 ## 🛠️ Technologies & Tools
   [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=python"/>](#)
   [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=r"/>](#)
-  [<img height="45px" width="45px" alt="Icon" src="https://github.com/posit-dev/positron/blob/main/positron-product-icons/positron.png"/>](#)
+  [<img height="41px" width="41px" alt="Icon" src="https://github.com/posit-dev/positron/blob/main/positron-product-icons/positron.png"/>](#)
   [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=postgres"/>](#)
   [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=mysql"/>](#)
   [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=css"/>](#)
