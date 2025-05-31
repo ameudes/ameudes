@@ -21,6 +21,7 @@ My research focuses on building artefacts that tackle three key and interconnect
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=github"/>](#)
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=notion"/>](#)
 
+# Positron  <a href="https://github.com/posit-dev/positron"><img src="positron-product-icons/positron.png" align="right" height="138" alt="Positron" /></a>
 
 
 
