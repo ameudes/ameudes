@@ -19,10 +19,11 @@ My research focuses on building artefacts that tackle three key and interconnect
   [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=css"/>](#)
   [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=vscode"/>](#)
   [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=github"/>](#)
-  [<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=notion"/>](#)
 
-## 🛠️ Learning now 
 
+## 📚 Learning now 
+[<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=aws"/>](#)
+[<img height="35px" width="35px" alt="Icon" src="https://skillicons.dev/icons?i=mongo"/>](#)
 
 
 ## 💬 A quote that describes me 
