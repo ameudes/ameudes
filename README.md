@@ -1,10 +1,9 @@
 # Eudes Adiba 
 With a background in statistics, I’m deepening my expertise in data science to strengthen the analytical foundation of the projects I’m involved in. 
 
-Here you will find a mix of projects from my curious dives into different topics, methods, and tools. They are all part of my ongoing learning adventures! Welcome to my playground 😄
+**Throughout my work, I combine mixed methods and Machine Learning**, with a strong commitment to reproducible research. **I am open to collaboration opportunities**.
 
-## 🌱 Research Interests
-My research focuses on building artefacts that tackle three key and interconnected limitations of Open Data: Quality, Findability, and Understandability. **Throughout my work, I combine mixed methods and Machine Learning**, with a strong commitment to reproducible research. **I am open to collaboration opportunities**.
+Here you will find a mix of projects from my curious dives into different topics, methods, and tools. They are all part of my ongoing learning adventures! Welcome to my playground 😄
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eudes-adiba/)
