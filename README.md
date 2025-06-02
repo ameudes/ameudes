@@ -26,7 +26,9 @@ Here you will find a mix of projects from my curious dives into different topics
 ![PyCaret](https://img.shields.io/badge/-PyCaret-1C1E24?style=flat-square&logo=PyCaret&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white) 
-
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)  
+![Stata](https://img.shields.io/badge/-Stata-005BAC?style=flat-square&logo=stata&logoColor=white)  
+![SPARQL](https://img.shields.io/badge/-SPARQL-0C479D?style=flat-square&logo=w3c&logoColor=white)
 
 ## 📚 Learning now
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
