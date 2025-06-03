@@ -41,7 +41,7 @@ Here you will find a mix of projects from my curious dives into different topics
 ## 💬 A quote that describes me 
 “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.” Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)
 
-
+Thanks for stopping by.
 <!--
 [![LeetCode user a_eudes](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2F/a_eudes&logo=leetcode&logoColor=yellow)](https://leetcode.com/a_eudes/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank&logoColor=white&labelColor=2EC866&color=2EC866)](https://www.hackerrank.com/eudes1adiba11)
